@@ -1,0 +1,53 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1508686697418">
+  <folder name="css">
+    <file name="site_global.css" crc="4238303302"/>
+    <file name="master_a-p_g_-maestra.css" crc="4250793637" ref="actividad-2:video-2:actividad-1:actividades:autores:lecturas:video-1:index:actividad-3:referencias:lectura-1:multimedia"/>
+    <file name="actividad-2.css" crc="33467170" ref="actividad-2"/>
+    <file name="video-2.css" crc="33467170" ref="video-2"/>
+    <file name="actividad-1.css" crc="33467170" ref="actividad-1"/>
+    <file name="actividades.css" crc="33467170" ref="actividades"/>
+    <file name="autores.css" crc="33467170" ref="autores"/>
+    <file name="lecturas.css" crc="33467170" ref="lecturas"/>
+    <file name="video-1.css" crc="33467170" ref="video-1"/>
+    <file name="index.css" crc="256541689" ref="index"/>
+    <file name="actividad-3.css" crc="33467170" ref="actividad-3"/>
+    <file name="referencias.css" crc="33467170" ref="referencias"/>
+    <file name="lectura-1.css" crc="33467170" ref="lectura-1"/>
+    <file name="multimedia.css" crc="33467170" ref="multimedia"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lecturas:lectura-1:actividades:multimedia:video-1:video-2:actividad-1:actividad-2:actividad-3:autores:referencias"/>
+    <file name="museutils.js" crc="3803043152" ref="index:lecturas:lectura-1:actividades:multimedia:video-1:video-2:actividad-1:actividad-2:actividad-3:autores:referencias"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lecturas:lectura-1:actividades:multimedia:video-1:video-2:actividad-1:actividad-2:actividad-3:autores:referencias"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:lecturas:lectura-1:actividades:multimedia:video-1:video-2:actividad-1:actividad-2:actividad-3:autores:referencias"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:lecturas:lectura-1:actividades:multimedia:video-1:video-2:actividad-1:actividad-2:actividad-3:autores:referencias"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:lecturas:lectura-1:actividades:multimedia:video-1:video-2:actividad-1:actividad-2:actividad-3:autores:referencias"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:lecturas:lectura-1:actividades:multimedia:video-1:video-2:actividad-1:actividad-2:actividad-3:autores:referencias"/>
+    <file name="require.js" crc="4157109226" ref="index:lecturas:lectura-1:actividades:multimedia:video-1:video-2:actividad-1:actividad-2:actividad-3:autores:referencias"/>
+  </folder>
+  <folder name="images">
+    <file name="logounad.png" crc="530979710" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logounadgrisinferior.png" crc="216339064" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="335681999" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="lecturas.html" crc="4159999012" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="lectura-1.html" crc="172569692" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="actividades.html" crc="4184614302" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="multimedia.html" crc="398900208" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="video-1.html" crc="3801654565" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="video-2.html" crc="3929214340" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="actividad-1.html" crc="3775764875" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="actividad-2.html" crc="3945766110" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="actividad-3.html" crc="3979452397" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="autores.html" crc="251989489" seo="true" mt="1508637878308" redirect="true"/>
+  <file name="referencias.html" crc="4092350816" seo="true" mt="1508637878308" redirect="true"/>
+</manifest>
