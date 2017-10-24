@@ -2,73 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://test.com/index.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/lecturas.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/lectura-1.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/actividades.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/multimedia.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/video-1.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/video-2.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/actividad-1.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/actividad-2.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/actividad-3.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/autores.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://test.com/referencias.html</loc>
-    <lastmod>2017-10-21</lastmod>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://test.com/lectura-2.html</loc>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://test.com/lectura-3.html</loc>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://test.com/lectura-4.html</loc>
+    <lastmod>2017-10-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://test.com/lectura-5.html</loc>
+    <lastmod>2017-10-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
