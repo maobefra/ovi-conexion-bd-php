@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1508893547824">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1508893845546">
   <folder name="css">
     <file name="site_global.css" crc="4038311247"/>
     <file name="master_a-p_g_-maestra.css" crc="3946745722" ref="actividad-2:video-2:actividad-1:actividades:autores:lecturas:video-1:index:actividad-3:referencias:lectura-1:multimedia:lectura-4:lectura-2:lectura-3:lectura-5"/>
@@ -64,20 +64,20 @@
       <caption webpage="lectura-4" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3904666242" seo="true" mt="1508893523783" redirect="true"/>
-  <file name="lecturas.html" crc="3952748797" seo="true" mt="1508885528082" redirect="true"/>
-  <file name="lectura-1.html" crc="4100897483" seo="true" mt="1508893382292" redirect="true"/>
-  <file name="actividades.html" crc="3907106744" seo="true" mt="1508885528082" redirect="true"/>
-  <file name="multimedia.html" crc="3824846111" seo="true" mt="1508888672105" redirect="true"/>
-  <file name="video-1.html" crc="195684714" seo="true" mt="1508889633970" redirect="true"/>
-  <file name="video-2.html" crc="4103111632" seo="true" mt="1508889654914" redirect="true"/>
-  <file name="actividad-1.html" crc="3873351766" seo="true" mt="1508885528082" redirect="true"/>
-  <file name="actividad-2.html" crc="4201292576" seo="true" mt="1508885528082" redirect="true"/>
-  <file name="actividad-3.html" crc="235316722" seo="true" mt="1508885528082" redirect="true"/>
-  <file name="autores.html" crc="286986954" seo="true" mt="1508885528082" redirect="true"/>
-  <file name="referencias.html" crc="377830723" seo="true" mt="1508893162018" redirect="true"/>
-  <file name="lectura-2.html" crc="4242873181" seo="true" mt="1508885528082" redirect="true"/>
-  <file name="lectura-3.html" crc="4070263578" seo="true" mt="1508885569282" redirect="true"/>
-  <file name="lectura-4.html" crc="447024497" seo="true" mt="1508893382322" redirect="true"/>
-  <file name="lectura-5.html" crc="3917220181" seo="true" mt="1508888430842" redirect="true"/>
+  <file name="index.html" crc="3916282399" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="lecturas.html" crc="353089435" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="lectura-1.html" crc="532771266" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="actividades.html" crc="486265166" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="multimedia.html" crc="3827329440" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="video-1.html" crc="191269465" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="video-2.html" crc="370959696" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="actividad-1.html" crc="117076965" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="actividad-2.html" crc="468180962" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="actividad-3.html" crc="4011017247" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="autores.html" crc="346799781" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="referencias.html" crc="137775669" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="lectura-2.html" crc="135005428" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="lectura-3.html" crc="16029881" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="lectura-4.html" crc="4058707630" seo="true" mt="1508893816898" redirect="true"/>
+  <file name="lectura-5.html" crc="150190385" seo="true" mt="1508893816898" redirect="true"/>
 </manifest>
