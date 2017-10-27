@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1509066605014">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="test.com" resolutions="1x" timestamp="1509067101055">
   <folder name="css">
     <file name="site_global.css" crc="4038311247"/>
-    <file name="master_a-p_g_-maestra.css" crc="515078490" ref="actividad-2:video-2:actividad-1:actividades:autores:lecturas:video-1:index:actividad-3:referencias:lectura-1:multimedia:lectura-4:lectura-2:lectura-3:lectura-5"/>
-    <file name="actividad-2.css" crc="167479167" ref="actividad-2"/>
+    <file name="master_a-p_g_-maestra.css" crc="4158065502" ref="actividad-2:video-2:actividad-1:actividades:autores:lecturas:video-1:index:actividad-3:referencias:lectura-1:multimedia:lectura-4:lectura-2:lectura-3:lectura-5"/>
+    <file name="actividad-2.css" crc="440832218" ref="actividad-2"/>
     <file name="video-2.css" crc="4157285932" ref="video-2"/>
     <file name="actividad-1.css" crc="4061891532" ref="actividad-1"/>
     <file name="actividades.css" crc="83310244" ref="actividades"/>
@@ -33,16 +33,21 @@
     <file name="musewpdisclosure.js" crc="119288625" ref="autores:actividad-1:actividad-2:actividad-3"/>
   </folder>
   <folder name="images">
-    <file name="logounad.png" crc="530979710" ref="index">
+    <file name="logounad.png" crc="530979710" ref="index:actividad-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="actividad-2" alt=""/>
     </file>
-    <file name="arrowmenudown.png" crc="262559161" ref="index">
+    <file name="arrowmenudown.png" crc="262559161" ref="index:actividad-2">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="actividad-2" alt=""/>
+      <caption webpage="actividad-2" alt=""/>
+      <caption webpage="actividad-2" alt=""/>
     </file>
-    <file name="logounadgrisinferior.png" crc="216339064" ref="index">
+    <file name="logounadgrisinferior.png" crc="216339064" ref="index:actividad-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="actividad-2" alt=""/>
     </file>
     <file name="sitio_web.jpg" crc="3996367814" ref="lectura-1">
       <caption webpage="lectura-1" alt=""/>
@@ -65,7 +70,7 @@
     <file name="insert.jpg" crc="510762696" ref="lectura-4">
       <caption webpage="lectura-4" alt=""/>
     </file>
-    <file name="favicon.ico" crc="4123430645" ref="index"/>
+    <file name="favicon.ico" crc="4123430645" ref="index:actividad-2"/>
     <file name="imagen pegada 850x678.jpg" crc="4095532050" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -90,7 +95,7 @@
   <file name="video-1.html" crc="484559348" seo="true" mt="1509065119878" redirect="true"/>
   <file name="video-2.html" crc="486842618" seo="true" mt="1509065119878" redirect="true"/>
   <file name="actividad-1.html" crc="3941546121" seo="true" mt="1509065413174" redirect="true"/>
-  <file name="actividad-2.html" crc="4040793499" seo="true" mt="1509065429289" redirect="true"/>
+  <file name="actividad-2.html" crc="3852117160" seo="true" mt="1509067088276" redirect="true"/>
   <file name="actividad-3.html" crc="3992980637" seo="true" mt="1509066525768" redirect="true"/>
   <file name="autores.html" crc="94998924" seo="true" mt="1509065119878" redirect="true"/>
   <file name="referencias.html" crc="4058284123" seo="true" mt="1509065119878" redirect="true"/>
